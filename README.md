@@ -19,6 +19,7 @@ Create a 'dataset' directory with the structure (atleast 2 users are required):
  1) user1 - some (6-10) photos
  2) user2 - some " photos
  3) user3 - some " photos
+ 4) unknown - some random face images 
  
 Instructions to run:
 
