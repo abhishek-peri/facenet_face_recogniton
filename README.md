@@ -6,7 +6,7 @@ download the protobuf files for face_detection: https://drive.google.com/open?id
 
 download the output directory to store emebddings: https://drive.google.com/open?id=1Ql5YlQ2X-Y1ssGm0Xs3DtWpXUbUmT_00
 
-Create a 'dataset' directory with the structure :
+Create a 'dataset' directory with the structure (atleast 2 users are required):
 
  1) user1 - some x photos
  2) user2 - some y photos
