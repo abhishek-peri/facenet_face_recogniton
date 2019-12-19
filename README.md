@@ -16,9 +16,9 @@ download the output directory to store emebddings: https://drive.google.com/open
 
 Create a 'dataset' directory with the structure (atleast 2 users are required):
 
- 1) user1 - some x photos
- 2) user2 - some y photos
- 3) user3 - some z photos
+ 1) user1 - some (6-10) photos
+ 2) user2 - some " photos
+ 3) user3 - some " photos
  
 Instructions to run:
 
