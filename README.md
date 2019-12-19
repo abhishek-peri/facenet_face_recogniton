@@ -1,5 +1,13 @@
 # facenet_face_recogniton
 
+dependencies:
+
+ 1) imutils
+ 2) pickle
+ 3) sklearn
+ 4) openCV >= 3.4
+ 5) python >= 2.7
+
 download the pretarined facenet_model here: https://drive.google.com/file/d/1Ds6gqY9dNRlbYA61zpv2ejzKbcjnhb-2/view?usp=sharing
 
 download the protobuf files for face_detection: https://drive.google.com/open?id=1bL8KmZZRIR6yEpWAA6QNQiNzKBLmKJsu
